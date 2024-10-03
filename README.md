@@ -1,16 +1,20 @@
-# pokedex_app
+# PokeDex
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para a Disciplina de Tópicos Avançados de Programação, do professor Andrey Alencar Quadros!
 
-## Getting Started
+## Ferramentas 🛠
 
-This project is a starting point for a Flutter application.
+- **Dart**
+- **Flutter**
+- **Dio**
+- **GetX**
+- **PokeApi**
 
-A few resources to get you started if this is your first Flutter project:
+## Prints
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Print 1](screenshots/Screenshot_1.png)
+![Print 2](screenshots/Screenshot_2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Desenvolvedor
+
+Desenvolvido por **Pedro Sawczuk** - **2022105100002**
